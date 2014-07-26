@@ -1,11 +1,11 @@
-#activity name  6
-Record Type
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+#activity name  
+
+1 WALKING/n
+2 WALKING_UPSTAIRS/n
+3 WALKING_DOWNSTAIRS/n
+4 SITTING/n
+5 STANDING/n
+6 LAYING/n
 #subject
 identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
