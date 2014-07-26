@@ -18,7 +18,8 @@ mean stand for Standard deviation.
 
 #the others are similar
 
-has the variable suas:
+has the variable suas:     
+
 -tBodyAcc-XYZ
 -tGravityAcc-XYZ
 -tBodyAccJerk-XYZ
