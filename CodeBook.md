@@ -1,11 +1,17 @@
 #activity name  
 
-1 WALKING ＜/br＞
-2 WALKING_UPSTAIRS  ＜/br＞
-3 WALKING_DOWNSTAIRS ＜/br＞
-4 SITTING ＜/br＞
-5 STANDING ＜/br＞
-6 LAYING ＜/br＞
+1 WALKING      
+
+2 WALKING_UPSTAIRS     
+
+3 WALKING_DOWNSTAIRS     
+
+4 SITTING    
+
+5 STANDING    
+
+6 LAYING     
+
 #subject
 identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
