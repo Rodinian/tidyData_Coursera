@@ -2,10 +2,10 @@
 
 
 
-*README.md
-*CodeBook.md :explain the variable in the tidydata.csv
-*run_analysis.R : run this to prpcess the raw data
-*tidydata.csv : a example of the result.
+*README.md      
+*CodeBook.md :explain the variable in the tidydata.csv    
+*run_analysis.R : run this to prpcess the raw data      
+*tidydata.csv : a example of the result.       
 
 
 
